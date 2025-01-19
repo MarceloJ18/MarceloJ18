@@ -3,7 +3,7 @@
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDJ5MXF0aW10bm83aW9xMndsNnRlczQ1Z2MyOW8weDJvemJtZmZ4eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GHcTHvpf36ju1Dlq7P/giphy.gif" />
 </p>
 
-Hello there! I'm **Marcelo Junior**, a recent graduate in **Data Science** from [![NOVA IMS](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/NOVA_IMS_Logo.png/200px-NOVA_IMS_Logo.png)](https://www.novaims.unl.pt) with an Erasmus stint at [![Northumbria University](https://upload.wikimedia.org/wikipedia/en/thumb/6/6c/Northumbria_University_logo.png/250px-Northumbria_University_logo.png)](https://www.northumbria.ac.uk). 
+Hello there! I'm **Marcelo Junior**, a recent graduate in **Data Science** from NOVA Information Management School with an Erasmus stint at Northumbria University in Newcastle upon Tyne. 
 
 I specialise in machine learning and image classification using Python, but I also have a solid grasp of R, SQL, and Excel. When I'm not analysing data, I'm probably watching Formula 1, playing RPGs, or trying to rank up in Valorant (with mixed results).
 
