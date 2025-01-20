@@ -1,7 +1,4 @@
 # Welcome to My GitHub Profile 👋
-<p align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDJ5MXF0aW10bm83aW9xMndsNnRlczQ1Z2MyOW8weDJvemJtZmZ4eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GHcTHvpf36ju1Dlq7P/giphy.gif" />
-</p>
 
 Hello there! I'm **Marcelo Junior**, a recent graduate in **Data Science** from NOVA Information Management School with an Erasmus stint at Northumbria University in Newcastle upon Tyne. 
 
@@ -66,7 +63,7 @@ Here are a few highlights of what I've been working on:
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" alt="Pokemon gif" width="200">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDJ5MXF0aW10bm83aW9xMndsNnRlczQ1Z2MyOW8weDJvemJtZmZ4eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GHcTHvpf36ju1Dlq7P/giphy.gif" alt="Pokemon gif" width="200">
 </p>
 <p align="center">Thanks for stopping by! If you made it this far, I hope you had a mildly enjoyable read.</p>
 
