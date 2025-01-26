@@ -29,13 +29,14 @@ I specialise in machine learning and image classification using Python, but I al
 - 🌍 **Languages:**
   - **Native:** Portuguese  🇵🇹 
   - **Fluent:** English  🇬🇧 (C2 level)
+  - **Beginner:** German (A1 but mostly rusty by now)
   - **Learning:** Danish 🇩🇰 and Japanese 🇯🇵 (slowly but surely)
 
 ## **Personal Life**
 
-- 🏎 **Hobbies:** Watching Formula 1 and football, learning languages, playing with GenAI.
+- 🏎 **Hobbies:** Watching Formula 1 and football, learning languages.
 
-- 🎮 **Games I Adore:**
+- 🎮 **Games I Enjoy:**
   - **Valorant** (silver… it’s a process)
   - RPGS like **Final Fantasy**, **METAPHOR** and **Mass Effect**
   - Special shoutout to **Pokémon** for always being there (favourite: Victini, no debates allowed).
