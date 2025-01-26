@@ -29,7 +29,7 @@ I specialise in machine learning and image classification using Python, but I al
 - 🌍 **Languages:**
   - **Native:** Portuguese  🇵🇹 
   - **Fluent:** English  🇬🇧 (C2 level)
-  - **Beginner:** German (A1 but mostly rusty by now)
+  - **Beginner:** German 🇩🇪 (A1 but mostly rusty by now)
   - **Learning:** Danish 🇩🇰 and Japanese 🇯🇵 (slowly but surely)
 
 ## **Personal Life**
