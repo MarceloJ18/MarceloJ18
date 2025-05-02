@@ -30,16 +30,8 @@ I specialise in machine learning and image classification using Python, but I al
   - **Native:** Portuguese  🇵🇹 
   - **Fluent:** English  🇬🇧 (C2 level)
   - **Beginner:** German 🇩🇪 (A1 but mostly rusty by now)
-  - **Learning:** Danish 🇩🇰 and Japanese 🇯🇵 (slowly but surely)
+  - **Learning:** Japanese 🇯🇵 (slowly but surely)
 
-## **Personal Life**
-
-- 🏎 **Hobbies:** Watching Formula 1 and football, learning languages.
-
-- 🎮 **Games I Enjoy:**
-  - **Valorant** (silver… it’s a process)
-  - RPGS like **Final Fantasy**, **METAPHOR** and **Mass Effect**
-  - Special shoutout to **Pokémon** for always being there (favourite: Victini, no debates allowed).
 
 ---
 
@@ -58,7 +50,7 @@ Here are a few highlights of what I've been working on:
 
 ## **Contact**
 
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](www.linkedin.com/in/marceloptajunior)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marceloptajunior/)
 
 
 ---
